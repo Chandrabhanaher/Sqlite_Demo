@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SQLite Demo</string>
+    <string name="submit">Submit</string>
+    <string name="next">Next</string>
+    <string name="email">Email</string>
+    <string name="hint">hint</string>
+    <string name="mobile">Mobile</string>
+    <string name="address">Address</string>
+    <string name="user_details">User Details</string>
+    <string name="name">Name</string>
+    <string name="todo">TODO</string>
+    <string name="image_photo_size_10kb_to_1mb">Image/photo size 10KB to 1MB</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Search..</string>
+</resources>
